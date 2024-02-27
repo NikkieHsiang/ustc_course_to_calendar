@@ -34,11 +34,11 @@ python3 main.py
 
 打开系统日历，点击下方“日历"
 
-![1709021123920](https://file+.vscode-resource.vscode-cdn.net/Users/Nikkie/M2/ustc_course_to_calendar/image/README/1709021123920.png)
+![Alt text](image/README/1709021123920.png)
 
 点击左下方“添加日历"
 
-![1231709020981_.pic](https://file+.vscode-resource.vscode-cdn.net/Users/Nikkie/M2/ustc_course_to_calendar/image/README/1231709020981.jpg)
+![Alt text](imgs/softbus_client_main_list.png)
 
 这个新建的日历就是稍后导入.ics的日历
 
